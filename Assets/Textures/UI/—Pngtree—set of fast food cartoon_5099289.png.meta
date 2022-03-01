@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 6005edb637f1a2a439e70b46c4b391af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5106524104155115617
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_0"
+  - first:
+      213: 3747059097182292954
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_1"
+  - first:
+      213: -3565066109014086381
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_2"
+  - first:
+      213: 1058796335074101364
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_3"
+  - first:
+      213: -1203933252375013178
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_4"
+  - first:
+      213: -8270715118437982008
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_5"
+  - first:
+      213: 6660071451435883185
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_6"
+  - first:
+      213: -791501414400301558
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_7"
+  - first:
+      213: -3376034060615653724
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_11"
+  - first:
+      213: 4745232555884864765
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_12"
+  - first:
+      213: -175081087238739854
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_13"
+  - first:
+      213: 2317184766697088963
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_14"
+  - first:
+      213: -128645217770053946
+    second: "\u2014Pngtree\u2014set of fast food cartoon_5099289_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_0"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3189
+        width: 1099
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4ddef16bf129b0800000000000000
+      internalID: -5106524104155115617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_1"
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 3328
+        width: 904
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb42f7656a300430800000000000000
+      internalID: 3747059097182292954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_2"
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 3157
+        width: 954
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6e6b2347568ec0800000000000000
+      internalID: -3565066109014086381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_3"
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 3124
+        width: 900
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c39138a991be00800000000000000
+      internalID: 1058796335074101364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_4"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2487
+        width: 1182
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c818eee515ca4fe0800000000000000
+      internalID: -1203933252375013178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_5"
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1804
+        width: 718
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c02d0f7b64883d80800000000000000
+      internalID: -8270715118437982008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_6"
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1846
+        width: 815
+        height: 1141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba5e81d2b35d6c50800000000000000
+      internalID: 6660071451435883185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_7"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1310
+        width: 887
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06637b38a50405f0800000000000000
+      internalID: -791501414400301558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_11"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1238
+        width: 440
+        height: 1033
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6626ba8eae521d0800000000000000
+      internalID: -3376034060615653724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_12"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 270
+        width: 553
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e2264ed37ad140800000000000000
+      internalID: 4745232555884864765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_13"
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 312
+        width: 761
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278ee34cdacf19df0800000000000000
+      internalID: -175081087238739854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_14"
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 589
+        width: 642
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c72de1b44b482020800000000000000
+      internalID: 2317184766697088963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of fast food cartoon_5099289_15"
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 339
+        width: 724
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce53c42bd5f63ef0800000000000000
+      internalID: -128645217770053946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c4803f6cbc1982a4fad2a64ac31467c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

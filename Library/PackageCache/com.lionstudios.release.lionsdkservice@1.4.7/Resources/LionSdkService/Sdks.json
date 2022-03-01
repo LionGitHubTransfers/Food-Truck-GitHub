@@ -1,0 +1,79 @@
+{
+  "Sdks": [
+      {
+        "ID": 1,
+        "IsSupported": true,
+        "AssetAndPackageRequired": false,
+        "AssetPath": "Adjust",
+        "PackageName": "",
+        "RequiredDirectories": []
+      },
+      {
+      "ID": 2,
+      "IsSupported": true,
+      "AssetAndPackageRequired": false,
+      "AssetPath": "Firebase",
+      "PackageName": "",
+      "RequiredDirectories": []
+      },
+      {
+      "ID": 3,
+      "IsSupported": true,
+      "AssetAndPackageRequired": false,
+      "AssetPath": "GameAnalytics",
+      "PackageName": "com.gameanalytics.sdk",
+      "RequiredDirectories": [
+            "GameAnalytics/Editor",
+            "GameAnalytics/Gizmos",
+            "GameAnalytics/Plugins"
+      ]
+      },
+      {
+      "ID": 4,
+      "IsSupported": false,
+      "AssetAndPackageRequired": false,
+      "AssetPath": "Nakama",
+      "PackageName": "",
+      "RequiredDirectories": []
+      },
+      {
+        "ID": 5,
+        "IsSupported": true,
+        "AssetAndPackageRequired": false,
+        "AssetPath": "GooglePlayPlugins",
+        "PackageName": "",
+        "RequiredDirectories": [
+          "GooglePlayPlugins/com.google.play.review"
+        ]
+      },
+      {
+        "ID": 6,
+        "IsSupported": true,
+        "AssetAndPackageRequired": false,
+        "AssetPath": "MaxSdk",
+        "PackageName": "",
+        "RequiredDirectories": [
+        ]
+      },
+      {
+        "ID": 7,
+        "IsSupported": true,
+        "AssetAndPackageRequired": false,
+        "AssetPath": "DeltaDNA",
+        "PackageName": "",
+        "RequiredDirectories": [
+            "DeltaDNA/Editor",
+            "DeltaDNA/Runtime"
+        ]
+      },
+      {
+      "ID": 8,
+      "IsSupported": true,
+      "AssetAndPackageRequired": false,
+      "AssetPath": "FacebookSDK",
+      "PackageName": "",
+      "RequiredDirectories": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "com.lionstudios.release.lionsdkservice",
+	"author": "Lion Studios",
+	"displayName": "Lion SDK Service",
+	"version": "1.4.7",
+	"description": "Detects SDKs for ease and reliability.",
+	"unity": "2019.4",
+	"dependencies": {
+
+	},
+	"samples": [
+
+	]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "LionAnalyticsTests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "LionAnalyticsRuntime",
+        "lionKit",
+        "LionSdkServiceRuntime",
+        "Unity.DeltaDNA.SDK"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Firebase.App.dll",
+        "GameAnalytics.dll",
+        "Firebase.Analytics.dll",
+        "Firebase.Platform.dll",
+        "Firebase.Editor.dll",
+        "Firebase.TaskExtension.dll",
+        "Win10Interface.dll",
+        "Win81Interface.dll",
+        "Google.JarResolver_v1.2.166.dll",
+        "Unity.Tasks.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

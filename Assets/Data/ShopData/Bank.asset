@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ca4cc57e955f146890f253bb0ae396, type: 3}
+  m_Name: Bank
+  m_EditorClassIdentifier: 
+  Info:
+  - Icons: {fileID: 21300000, guid: d7b9dd9f132662949b0faa7c75e2e90b, type: 3}
+    Cost: 900
+    AlmazCost: 0
+    Types: 1
+  - Icons: {fileID: 21300000, guid: 93788a2e5de019b458beca857c0d1a97, type: 3}
+    Cost: 1100
+    AlmazCost: 0
+    Types: 1
+  - Icons: {fileID: 21300000, guid: 86ebf2d3905c63140acecf925b37ad50, type: 3}
+    Cost: 1300
+    AlmazCost: 0
+    Types: 1
+  - Icons: {fileID: 21300000, guid: 97bfd5186c8bbbf48b994ee6ca355d05, type: 3}
+    Cost: 1500
+    AlmazCost: 0
+    Types: 1
+  - Icons: {fileID: 21300000, guid: 48bf9131b1e872c419d7dbc7acecd35a, type: 3}
+    Cost: 1700
+    AlmazCost: 0
+    Types: 1
+  - Icons: {fileID: 21300000, guid: 8c05571a03bd39145841ad3f3805dac8, type: 3}
+    Cost: 1900
+    AlmazCost: 0
+    Types: 1

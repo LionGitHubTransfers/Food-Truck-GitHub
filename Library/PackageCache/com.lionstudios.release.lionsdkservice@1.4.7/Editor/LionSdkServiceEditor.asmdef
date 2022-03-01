@@ -1,0 +1,17 @@
+{
+    "name": "LionSdkServiceEditor",
+    "references": [
+        "GUID:240f45cda5b847941856ebf063dc8fab"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

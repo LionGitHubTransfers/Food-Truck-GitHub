@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ca4cc57e955f146890f253bb0ae396, type: 3}
+  m_Name: Plate
+  m_EditorClassIdentifier: 
+  Info:
+  - Icons: {fileID: 21300000, guid: 8812de896c1b0984fa699c662a648877, type: 3}
+    Cost: 800
+    AlmazCost: 0
+    Types: 0
+  - Icons: {fileID: 21300000, guid: cd1ff178f61ead44d83d760892b0df4c, type: 3}
+    Cost: 1000
+    AlmazCost: 0
+    Types: 0
+  - Icons: {fileID: 21300000, guid: 7f9cdd421d5c99d40bf7f0eb7bc96dde, type: 3}
+    Cost: 1200
+    AlmazCost: 0
+    Types: 0
+  - Icons: {fileID: 21300000, guid: 0e9cce36d9a6de14e9c3403806b135ba, type: 3}
+    Cost: 1400
+    AlmazCost: 0
+    Types: 0
+  - Icons: {fileID: 21300000, guid: c443f2e2de677994280b4aa30685e21d, type: 3}
+    Cost: 1600
+    AlmazCost: 0
+    Types: 0
+  - Icons: {fileID: 21300000, guid: df23a6ce024cda4428b2173a56283558, type: 3}
+    Cost: 1800
+    AlmazCost: 0
+    Types: 0

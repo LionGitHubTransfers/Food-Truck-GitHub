@@ -1,0 +1,20 @@
+{
+    "name": "LionSuiteCoreEditor",
+    "references": [
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:53231f761774eb84cb7bd616b06ed6c2",
+        "GUID:71a52d0f31cf34be29b550afc367c2b8",
+        "GUID:59c6993dff4987b41bcd07aa93b6483e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

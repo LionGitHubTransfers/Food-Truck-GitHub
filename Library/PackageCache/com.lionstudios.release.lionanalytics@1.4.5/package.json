@@ -1,0 +1,19 @@
+{
+	"name": "com.lionstudios.release.lionanalytics",
+	"author": "Lion Studios",
+	"displayName": "Lion Suite - Analytics",
+	"version": "1.4.5",
+	"description": "Lion Analytics is a standardized gameplay event package that enables consistent instrumentation and data across installed SDKs. This package is used in every stage of testing.",
+	"unity": "2019.4",
+	"dependencies": {
+		"com.lionstudios.release.lionkitcore": "1.0.4",
+		"com.lionstudios.release.lionsdkservice": "1.4.7"
+	},
+	"samples": [
+		{
+			"displayName": "Lion Analytics Example",
+			"description": "Sample scene to fire test events",
+			"path": "samples~/1.3.13"
+		}
+	]
+}

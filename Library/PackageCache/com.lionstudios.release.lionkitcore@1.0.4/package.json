@@ -1,0 +1,48 @@
+{
+	"name": "com.lionstudios.release.lionkitcore",
+	"author": "Lion Studios",
+	"displayName": "Lion Suite - Core",
+	"version": "1.0.4",
+	"description": "Lion Core is a settings and initialization manager that unifies multiple Lion Suite packages. This package is used at Stage 4 testing.\r",
+	"unity": "2019.4",
+	"dependencies": {
+
+	},
+	"samples": [
+		{
+			"displayName": "Adjust SDK Integration",
+			"description": "",
+			"path": "samples~/AdjustSdkIntegration"
+		},
+		{
+			"displayName": "Max SDK Integration (no Ads)",
+			"description": "",
+			"path": "samples~/MaxSdkIntegrationOnly"
+		},
+		{
+			"displayName": "MAX Remote Config",
+			"description": "",
+			"path": "samples~/MaxRemoteConfig"
+		},
+		{
+			"displayName": "Max SDK Integration (with Ads)",
+			"description": "",
+			"path": "samples~/MaxSdkIntegrationAds"
+		},
+		{
+			"displayName": "Facebook SDK Integration",
+			"description": "",
+			"path": "samples~/FacebookIntegration"
+		},
+		{
+			"displayName": "Firebase SDK Integration",
+			"description": "",
+			"path": "samples~/FirebaseIntegration"
+		},
+		{
+			"displayName": "Game Analytics SDK Integration",
+			"description": "",
+			"path": "samples~/GameAnalyticsIntegration"
+		}
+	]
+}

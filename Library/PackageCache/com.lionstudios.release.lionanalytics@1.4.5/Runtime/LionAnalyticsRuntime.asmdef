@@ -1,0 +1,16 @@
+{
+    "name": "LionAnalyticsRuntime",
+    "references": [
+        "GUID:240f45cda5b847941856ebf063dc8fab",
+        "GUID:53231f761774eb84cb7bd616b06ed6c2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

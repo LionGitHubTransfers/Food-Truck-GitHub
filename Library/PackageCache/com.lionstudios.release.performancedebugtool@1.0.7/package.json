@@ -1,0 +1,7 @@
+{
+    "name": "com.lionstudios.release.performancedebugtool",
+    "displayName": "Lionstudios Performance Debug Tool",
+    "version": "1.0.7",
+    "unity": "2019.1",
+    "description": "Performance Debug Tool for Lionstudios"
+}

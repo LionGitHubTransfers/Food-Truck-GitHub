@@ -1,0 +1,2 @@
+D:\UnityDevProject\Food Truck Service\obj\Debug\NavMeshComponentsEditor.csproj.AssemblyReference.cache
+D:\UnityDevProject\Food Truck Service\obj\Debug\NavMeshComponentsEditor.csproj.CoreCompileInputs.cache
